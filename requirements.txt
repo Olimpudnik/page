@@ -3,3 +3,5 @@ streamlit==1.7.0
 numpy
 scipy
 pandas
+plotly
+plotly_express
